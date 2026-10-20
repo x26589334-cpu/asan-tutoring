@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-<rect width="64" height="64" rx="14" fill="#c08a3a"/>
-<text x="32" y="42" font-family="'Malgun Gothic','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="23" font-weight="700" letter-spacing="-1" fill="#fff" text-anchor="middle">아산</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#c08a3a"/><path d="M32 40 C 20 40 11 29 11 18 Q 21 13 30 18 L 32 25 L 34 18 Q 43 13 53 18 C 53 29 44 40 32 40 Z" fill="#fff"/><path d="M32 39 V53" stroke="#fff" stroke-width="3.2" stroke-linecap="round"/><g stroke="#c08a3a" stroke-width="1.2" opacity=".35"><path d="M32 38 L20 20"/><path d="M32 38 L44 20"/><path d="M32 38 L28 19"/><path d="M32 38 L36 19"/></g></svg>
